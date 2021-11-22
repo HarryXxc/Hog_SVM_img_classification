@@ -17,7 +17,7 @@ train_feature_path = "train/"
 test_feature_path = "test/"
 model_path = "model/"
 
-data_root = os.path.abspath(os.path.join(os.getcwd(), "../"))
+data_root = os.path.abspath(os.path.join(os.getcwd(), "./"))
 image_path = data_root + "/dataset/flower_data"
 
 
