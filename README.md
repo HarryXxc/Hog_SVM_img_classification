@@ -1,0 +1,2 @@
+# Hog_SVM_img_classification
+模仿深度学习图像分类，利用字典的方法获取图像本身和标签，结合HOG+SVM进行分类
